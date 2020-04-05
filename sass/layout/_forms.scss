@@ -1,0 +1,66 @@
+form{
+    .form-group{
+        margin-bottom: 15px;
+        display: block;
+        &.required{
+            position: relative;
+            &::before{
+                content: "*";
+                position: absolute;
+                top: 5px;
+                right: 5px;
+                color: #f00;
+                font-size: 16px;
+                line-height: 9px;
+            }
+        }
+    }
+    .form-control{
+        width: 100%;
+        height: 58px;
+        border: solid 1px #d8d8d8;
+        background: transparent;
+        box-shadow: none;
+        padding: 2px 15px;
+        font-family:'Lato', sans-serif;
+        font-size: em(16);
+        color: #fff;
+        letter-spacing: 0.05em;
+        border-radius: 0px;
+        @include placeholder{
+            color: rgba(#fff, 0.80);
+        }
+        &:focus{
+            background: transparent;
+            outline: none;
+            border-color: $color-secondary;
+            box-shadow: none;
+            color: #fff;
+        }
+        @include breakpoint(normal){
+            height: 46px;
+        }
+    }
+
+    textarea.form-control{
+        height:150px;
+        resize: none;
+    }
+    
+}
+
+.contact-form{
+    form{
+        .form-control{
+         
+            color: #000;
+            @include placeholder{
+                color: rgba(#000, 0.80);
+            }
+            &:focus{
+             
+                color: #000; 
+            }
+        }
+    }
+}

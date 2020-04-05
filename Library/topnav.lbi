@@ -1,0 +1,17 @@
+<div class="top_menu">
+	          <ul id="nav">
+		<li class=" font14 "><a href="../index.htm"><strong>HOME</strong></a></li>
+		</ul >
+		        <ul id="nav1">
+		<li class=" font14 "><a href="../reviews.htm"><strong>REVIEWS</strong></a></li>
+		</ul >
+		      <ul id="nav2">
+		<li class=" font14 "><a href="../travelagents.htm"><strong>TRAVEL AGENTS</strong></a></li>
+		</ul >
+		      <ul id="nav3">
+		<li class=" font14 "><a href="../about.htm"><strong>ABOUT US</strong></a> </li>
+		</ul >
+		    <ul id="nav4">
+		<li class=" font14 "><a href="../list-your-property.htm"><strong>LIST YOUR HOME</strong></a></li>
+	    </ul >
+</div>

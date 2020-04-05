@@ -1,0 +1,180 @@
+<section id="cf" class="main cf text-center">
+  <div class="section-inner">
+    <div class="section-image">
+      <img src="/img/view.jpg" alt="" class="fullsize-bg">
+    </div><!-- /.section-image -->
+
+    <div class="col-sm-5 col-sm-offset-7 section-aside">
+      <!-- START formexperts.com Form Code -->
+      <!-- <iframe src="https://secure.blueoctane.net/form_processor/?form=PE09GD6EA02F&key=1481316173" width="450" height="400" frameborder="0" scrolling="no"></iframe>
+      <script type="text/javascript">if (window._fxTrack) { _fxTrack(); }</script>
+      <noframes><a href="https://secure.blueoctane.net/forms/PE09GD6EA02F">Click Here To Load This Formexperts.com Form</a></noframes> -->
+      <!-- END formexperts.com Form Code -->
+
+      <h2>Start the <strong>Process</strong> here</h2>
+
+      <div class="form-experiences">
+        <form action="/email-homepage.php" method="post">
+          <div class="form-body">
+            <div class="row">
+              <div class="col-md-12">
+                <label for="field-fname" class="form-label">Name</label>
+
+                <div class="form-controls">
+                  <input type="text" class="field" name="field-fname" id="field-fname" value="" placeholder="">
+                </div><!-- /.form-controls -->
+              </div><!-- /.col-md-12 -->
+
+              <div class="col-md-6">
+                <label for="field-email" class="form-label">Email <span class="form-asterisk">*</span></label>
+
+                <div class="form-controls">
+                  <input type="email" class="field" name="field-email" id="field-email" value="" placeholder="(Required field)" required>
+                </div><!-- /.form-controls -->
+              </div><!-- /.col-md-6 -->
+
+              <div class="col-md-6">
+                <label for="field-phone" class="form-label">Phone Number</label>
+
+                <div class="form-controls">
+                  <input type="text" class="field" name="field-phone" id="field-phone" value="" placeholder="">
+                </div><!-- /.form-controls -->
+              </div><!-- /.col-md-6 -->
+
+              <div class="col-md-6">
+                <label for="field-date" class="form-label">Dates of Travel?</label>
+
+                <div class="form-controls">
+                  <input type="text" class="field" name="field-date" id="field-date" value="" placeholder="">
+                </div><!-- /.form-controls -->
+              </div><!-- /.col-md-6 -->
+
+              <div class="col-md-6">
+                <label for="field-guests" class="form-label">Guests</label>
+
+                <div class="form-controls">
+                  <input type="text" class="field" name="field-guests" id="field-guests" value="">
+                </div><!-- /.form-controls -->
+              </div><!-- /.col-md-6 -->
+            </div><!-- /.row -->
+
+            <div class="row">
+              <div class="col-md-12">
+                <label for="field-message" class="form-label">Any Important Travel Information you'd like to share?</label>
+
+                <div class="form-controls">
+                  <textarea class="textarea" name="field-message" id="field-message" placeholder=""></textarea>
+                </div><!-- /.form-controls -->
+              </div><!-- /.col-md-12 -->
+            </div><!-- /.row -->
+          </div><!-- /.form-body -->
+
+          <div class="form-actions">
+            <input type="text" name="gotcha" style="position: fixed; top: -10000px; left: -10000px; ">
+
+            <div class="form-captcha">
+              <input name="captcha" type="text" placeholder="Enter the code*">
+              <img src="/simple-captcha.php" />
+            </div><!-- /.form-captcha -->
+
+            <input type="submit" value="Submit inquiry" class="form-btn" name="submit">
+          </div><!-- /.form-actions -->
+        </form>
+      </div><!-- /.form-experiences -->
+    </div>
+  </div><!-- /.section-inner -->
+</section>
+
+<footer>
+  <div class="container">
+    <div class="footer-logo"> <a href="/index.html"><img src="/images/logo.png" alt="Logo"></a> </div>
+    <div class="footer-social-links">
+      <ul>
+        <li><a href="https://www.facebook.com/luxuryvacationrentaltravel" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+        <li><a href="https://twitter.com/LuxLifestyle" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+        <li><a href="https://www.pinterest.com/villalifestyle/" target="_blank"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a></li>
+        <li><a href="https://www.instagram.com/dreamexoticrentals/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+        <li><a href="https://vimeo.com/dreamexoticrentals" target="_blank"><i class="fa fa-vimeo" aria-hidden="true"></i></a></li>
+        <li><a href="https://weheartit.com/DreamExoticRentals" target="_blank"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
+      </ul>
+    </div>
+    <div class="row">
+      <div class="col-lg-3 col-6">
+        <h5>legal</h5>
+        <ul>
+          <li><a href="/PrivacyPolicy.htm">Privacy Policies</a></li>
+          <li><a href="/terms.htm">Terms of Service</a></li>
+          <li>STL ST38984</li>
+          <!--<li><a href="javascript:void(0);">ASTA # 900184367</a></li>-->
+          <li>ASTA # 900184367</li>
+          <li><a href="https://secure.validatedsite.com/seal/seal_details.aspx?x=LBGifCsMsnSXKCChSpyNlvCKNlYAWdieGkgmNfwqNlBWJEUbcq&siteid=50422&d=www.dreamexoticrentals.com&y=LBGifCsMsnSXKCChSpyNlvCKNlYAWdieGkgmNfwqNlBWJEUbcq">Validated Site</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-3 col-6">
+        <h5>About Us</h5>
+        <ul>
+          <li><a href="/faq.htm">FAQ</a></li>
+          <li><a href="https://www.trustlink.org/Reviews/Luxury-Lifestyle-Management-Inc-205994490">Reviews</a></li>
+          <li><a href="/mission-statement.htm">Mission Statement</a></li>
+          <li><a href="/travel-agents.htm">Travel Agents</a></li>
+          <li><a href="/contact.htm">Contact Us</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-3 col-6">
+        <h5>Home Owners</h5>
+        <ul>
+          <li><a href="/list-your-property.htm">List Your Property</a></li>
+          <li><a href="/contact.htm">Talk To Us</a></li>
+          <li>STL ST38984</li>
+          <li>ASTA # 900184367</li>
+          <li><a href="https://secure.validatedsite.com/seal/seal_details.aspx?x=LBGifCsMsnSXKCChSpyNlvCKNlYAWdieGkgmNfwqNlBWJEUbcq&siteid=50422&d=www.dreamexoticrentals.com&y=LBGifCsMsnSXKCChSpyNlvCKNlYAWdieGkgmNfwqNlBWJEUbcq">Validated Site</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-3 col-6">
+        <h5>Travel Planning</h5>
+        <ul>
+          <li><a href="/experience-Tours.htm">Tours</a></li>
+          <li><a href="/luxury-events.htm">The Ultimate Events</a></li>
+          <li><a href="/weddings.htm">Dream Wedding</a></li>
+          <li><a href="/corporate-retreats.htm">Corporate Retreats</a></li>
+          <li><a href="/grab-the-deal.htm">Grab the Deal</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-address">
+      <h5>Dream Exotic Rentals</h5>
+      <ul>
+        <li>15321 S. Dixie Hwy.<br>
+          Palmetto Bay, FL 33157</li>
+        <li>Intl: <a href="tel:+1 786-293-9061">+1 786-293-9061</a><br>
+          USA: <a href="tel:+1 866-293-9061">+1 866-293-9061</a> </li>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+<!-- jQuery first, then Bootstrap JS. --> 
+<script src="/js/jquery.min.js"></script> 
+<script src="/js/popper.min.js"></script> 
+<script src="/js/bootstrap.min.js"></script> 
+<script src="/js/owl.carousel.min.js"></script> 
+<script src="/js/custom.js"></script>
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/custom-scripts.js"></script>
+<script src="/js/jquery.validate.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.3/fotorama.js"></script> <!-- 16 KB -->
+<script src="/js/modernizr.custom.js"></script>
+<script src="/js/jquery.dlmenu.js"></script>
+<script src="/vendors/jquery-ui-1.12.1/jquery-ui.min.js"></script>
+<script src="/vendors/OwlCarousel2-develop/dist/owl.carousel.min.js"></script>
+<!-- <script src="/ajax/libs/jquery.isotope/2.2.0/isotope.pkgd.js"></script> -->
+<script src="https://unpkg.com/isotope-layout@3.0.6/dist/isotope.pkgd.min.js"></script>
+<script type="text/javascript" src="/vendors/scrollbar/jquery.mCustomScrollbar.js"></script>
+</body>
+</html>

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+<title>Dubai Vacation Rentals - Holiday Homes Dubai</title>
+<meta name="description" content="Dubai Vacation Rentals - Offering United Arab Emirates vacation rentals, beachfront properties in United Arab Emirates. Vacation rentals in Dubai that are beach vacation escapes and will make your Dubai vacation a dream come true.">
+<meta name="keywords" content="Dubai Vacation Rentals, Dubai Holiday Lets, Holiday Homes, waterfront vacation rentals, vacation properties, Dubai vacation rentals">
+
+
+
+<!--#include virtual="/partials/header.shtml" --><section class="villa locationslist">
+
+  <div id="content">
+    <div class="navigation font12"><a href="../../index.htm">Home</a> &gt; <a href="../../middle-east.htm">Middle East</a> &gt; <strong>Dubai</strong></div>
+    <div class="navigation_1 font24 color" style="font-family: 'Dancing Script', cursive;">Dubai Vacation Rentals</div>
+    <div id="box_left_usa">
+      <div class="europe_map"><img src="../../images/MiddleEast/Dubai/Dubai-banner.jpg" width="637" height="228" alt="Dubai Vacation Rentals" /></div>
+      <div class="usa_img_font font11 color"></div>
+      <div id="filters" class="button-group">
+        <button data-filter="*" class="btn btn-default">Show All</button>
+        <button data-filter=".bed_1" class="btn btn-default">1 Bedroom</button>
+        <button data-filter=".bed_2" class="btn btn-default">2 Bedrooms</button>
+        <button data-filter=".bed_3" class="btn btn-default">3 Bedrooms</button>
+        <button data-filter=".bed_4" class="btn btn-default">4 Bedrooms</button>
+        <button data-filter=".bed_5" class="btn btn-default">5 Bedrooms</button>
+        <button data-filter=".bed_6up" class="btn btn-default">6+ Bedrooms</button>
+      </div>
+      <div id="isotopstart">
+        <div class="usa_img_bg item bed_4">
+          <div class="color font18 ca_title">Dubai Elegance</div>
+          <div class="img_box">
+            <div class="img_box_1 font12 color1"> <span class="img_box_f"><strong>Location </strong></span> <span class="img_box_f1"><strong>Beds</strong></span> <span class="img_box_f1"><strong>Baths </strong></span> <span class="img_box_f1"><strong>Sleeps </strong></span> <span class="img_box_f"><strong>Weekly Low</strong></span> <span class="img_box_f"><strong>Weekly High </strong></span> <span class="img_box_f2"><strong>Weekly Peak</strong></span> </div>
+            <div class="img_box_2 font12 color2"> <span class="img_box_f"><strong>Dubai</strong></span> <span class="img_box_f1"><strong>4</strong></span> <span class="img_box_f1"><strong>4</strong></span> <span class="img_box_f1"><strong>8 </strong></span> <span class="img_box_f"><strong>Inquire</strong></span> <span class="img_box_f"><strong><a href="../../inquiry.htm">Inquire</a></strong></span><strong><a href="../../inquiry.htm">Inquire</a></strong></div>
+            <div class="photo_room"><a href="dubai-elegance.htm"><img src="../../images/MiddleEast/Dubai/dubai_elegance1.jpg" alt="Dubai Elegance" width="133" height="88" border="0" /></a></div>
+            <div class="photo_room_f font12">
+              <p>The Meadows  is one of Dubai’s most luxurious residential communities that is just minutes  away from Mall of the Emirates (3 km), the Beach (3 km) as well as Luxury Golf  Course Emirates Hills (1 km).&nbsp; In the midst of this exclusive community,  you will find our Dubai Elegance Villa. Furnished to the highest standard, this  stunning 4 bedroom Villa offers a large private pool &amp; Jacuzzi.</p>
+              <p align="right"><a href="dubai-elegance.htm">View Details</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="box_right_usa">
+      <div class="usa_font_right_1"> <a class="btn btn-info" href="../../middle-east.htm"><i class="fa fa-map-marker"></i> Back to Middle East</a> </div>
+      
+      
+      <div class="box_right_cont_1">
+        <div class="collapse_1">
+          <div class="color1 font12 trigger"><strong><strong>Dubai</strong></div>
+          <div class="font12 h3 collapse_2">
+            <p>We  currently only offer homes in the Dubai area, we hope to expand but Dubai is  the only city thus far.&nbsp; The homes in Dubai are generally in the Jumeriah  Island area and The Meadows Neighborhood.&nbsp; When Traveling to Dubai take  note to visit the amazing Palm Island area where you’ll see the only Island in  the world that has been manmade.&nbsp; Additionally tour the architectural  genius throughout the city.&nbsp; A wonderful place to vacation if you want to  do something exciting and different.&nbsp; </p>
+          </div>
+          <div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+  </div>
+</section><!--#include virtual="/partials/footer.shtml" --> 

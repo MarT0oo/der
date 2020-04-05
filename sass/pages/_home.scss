@@ -1,0 +1,398 @@
+.explore-destination-slider {
+    margin-top: 50px;
+    .item {
+        width: 100%;
+        height: 400px;
+        @include bg-cover;
+        position: relative;
+        &::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            background: linear-gradient(to bottom, rgba(0, 0, 0, 0.09), rgba(0, 0, 0, 1));
+            z-index: 1;
+            opacity: 0.58;
+            @include transition;
+        }
+        a {
+            display: flex;
+            align-items: flex-end;
+            justify-content: flex-end;
+            flex-wrap: wrap;
+            flex-direction: column;
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            z-index: 5;
+            font-family: $serif;
+            font-weight: 400;
+            font-style: italic;
+            color: #fff;
+            font-size: 16px;
+            padding: 20px;
+            strong {
+                display: block;
+                font-size: 18px;
+                font-family: $sans-serifB;
+                font-weight: normal;
+                font-style: normal;
+                width: 100%;
+                letter-spacing: 0.1em;
+            }
+            span {
+                width: 100%;
+                display: block;
+            }
+            &:before {
+                content: "";
+                display: block;
+                vertical-align: top;
+                width: 100%;
+                height: 27px;
+                background: url(../images/location-pin.png) no-repeat;
+                background-size: 22px auto;
+                margin-bottom: 7px;
+            }
+        }
+        &:hover {
+            &::before {
+                opacity: 1;
+            }
+            a,
+            a:hover {
+                padding-bottom: 30px;
+                color: #fff;
+            }
+        }
+        @include breakpoint(normal) {
+            height: 320px;
+        }
+    }
+    .owl-nav button.owl-next,
+    .owl-nav button.owl-prev {
+        width: 80px;
+        background: $color-secondary;
+        color: #fff;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        border: solid 1px $color-secondary;
+        @include transition;
+        span {
+            font-size: 68px;
+            line-height: 1px;
+        }
+        &::before {
+            content: "";
+            display: block;
+            font-size: 14px;
+            color: #fff;
+            font-family: $sans-serifB;
+            margin-bottom: 60px;
+            @include breakpoint(normal) {
+                margin-bottom: 10px;
+            }
+        }
+        &:hover {
+            background: $color-primary;
+            color: $color-secondary;
+        }
+        @include breakpoint(normal) {
+            position: static;
+            margin: 0 30px;
+            padding: 10px 0 !important;
+        }
+    }
+    .owl-nav button.owl-next {
+        right: -90px;
+        &::before {
+            content: "next";
+        }
+    }
+    .owl-nav button.owl-prev {
+        left: -90px;
+        &::before {
+            content: "prev";
+        }
+    }
+    @include breakpoint(normal) {
+        .owl-nav {
+            text-align: center;
+            margin-top: 30px;
+        }
+    }
+}
+
+.fav-post {
+    display: block;
+    position: relative;
+    padding-bottom: 45px;
+    background: #fff;
+    height: 100%;
+    @include breakpoint(ipad) {
+        margin-bottom: 15px;
+        margin-top: 15px;
+        height: auto;
+    }
+    figure {
+        width: 100%;
+        height: 220px;
+        @include bg-cover;
+        position: relative;
+        margin-bottom: 0;
+        &::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            background: linear-gradient(to bottom, rgba(0, 0, 0, 0.09), rgba(0, 0, 0, 1));
+            z-index: 1;
+            opacity: 0.58;
+            @include transition;
+        }
+        a {
+            display: flex;
+            align-items: flex-end;
+            justify-content: flex-end;
+            flex-wrap: wrap;
+            flex-direction: column;
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            z-index: 5;
+            font-family: $sans-serifB;
+            font-weight: normal;
+            letter-spacing: 0.1em;
+            color: #fff;
+            font-size: 14px;
+            padding: 20px;
+            strong {
+                display: block;
+                font-size: 24px;
+                font-family: $serif;
+                font-weight: 400;
+                font-style: normal;
+                width: 100%;
+                letter-spacing: 0.1em;
+            }
+            span {
+                width: 100%;
+                display: block;
+                cite {
+                    font-style: normal;
+                    font-size: 24px;
+                    color: $color-secondary;
+                }
+            }
+            @include breakpoint(normal) {
+                padding: 9px 15px;
+            }
+        }
+        &:hover {
+            &::before {
+                opacity: 1;
+            }
+            a,
+            a:hover {
+                padding-bottom: 30px;
+                color: #fff;
+            }
+        }
+        @include breakpoint(normal) {
+            height: 200px;
+        }
+    }
+    .fav-post-details {
+        padding: em(20) em(30) em(15);
+        background: #fff;
+        @include breakpoint(normal) {
+            padding: em(10) em(15) em(8);
+        }
+        h5 {
+            font-family: $sans-serifB;
+            font-weight: normal;
+            font-size: em(24);
+            &:before {
+                content: "";
+                display: inline-block;
+                vertical-align: top;
+                width: 22px;
+                height: 27px;
+                background: url(../images/location-pin.png) no-repeat;
+                background-size: 100%;
+                margin-right: 7px;
+            }
+            @include breakpoint(normal) {
+                margin-bottom: 5px;
+            }
+        }
+        ul {
+            margin: 0;
+            padding: 0;
+            li {
+                display: inline-block;
+                margin-right: 12px;
+                font-family: $sans-serifB;
+                font-weight: normal;
+                font-size: em(22);
+                .fa {
+                    color: #b6b6b6;
+                    font-size: 18px;
+                    display: inline-block;
+                    vertical-align: middle;
+                    margin-right: 5px;
+                }
+                &:last-child {
+                    margin-right: 0;
+                }
+            }
+        }
+    }
+    .fav-post-info {
+        padding: em(20) em(30);
+        background: #fff;
+        border-top: solid 2px #f6f6f6;
+        @include breakpoint(normal) {
+            padding: em(10) em(15);
+        }
+        p {
+            color: rgba(#444444, 0.70);
+            line-height: 1.6;
+            font-size: em(16);
+        }
+    }
+    .fav-post-btn {
+        width: 100%;
+        height: auto;
+        border-radius: 0px;
+        font-size: em(24);
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        &:hover,
+        &:focus {
+            border-color: $color-secondary;
+            color: $color-secondary;
+            background: $color-primary;
+            box-shadow: none;
+        }
+    }
+}
+
+.experience-post {
+    figure {
+        width: 100%;
+        height: 350px;
+        @include bg-cover;
+        position: relative;
+        margin-bottom: 30px;
+        @include breakpoint(ipad) {
+            height: 260px;
+        }
+        &::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            background: linear-gradient(to bottom, rgba(0, 0, 0, 0.09), rgba(0, 0, 0, 1));
+            z-index: 1;
+            opacity: 0.58;
+            @include transition;
+        }
+        a {
+            display: flex;
+            align-items: flex-end;
+            justify-content: flex-end;
+            flex-wrap: wrap;
+            flex-direction: column;
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            z-index: 5;
+            font-family: $serif;
+            font-weight: 400;
+            font-style: italic;
+            color: #fff;
+            font-size: 16px;
+            padding: 20px;
+            strong {
+                display: block;
+                font-size: 18px;
+                font-family: $sans-serifB;
+                font-weight: normal;
+                font-style: normal;
+                width: 100%;
+                letter-spacing: 0.1em;
+            }
+            span {
+                width: 100%;
+                display: block;
+            }
+        }
+        &:hover {
+            &::before {
+                opacity: 1;
+            }
+            a,
+            a:hover {
+                padding-bottom: 30px;
+                color: #fff;
+            }
+        }
+    }
+}
+
+.contact-section {
+    position: relative;
+    &::after {
+        content: "";
+        position: absolute;
+        bottom: -60px;
+        left: 0;
+        right: 0;
+        width: 1px;
+        height: 100px;
+        background: #d2d3d3;
+        margin: auto;
+        z-index: 1;
+        @include breakpoint(normal){
+            display: none;
+        }
+    }
+    p {
+        color: rgba(#444444, 0.70);
+        line-height: 1.6;
+        font-size: em(16);
+        margin-bottom: 25px;
+    }
+    input[type="submit"].btn {
+        width: 100%;
+        height: auto;
+        border-radius: 0px;
+        font-size: em(24);
+        &:hover,
+        &:focus {
+            border-color: $color-secondary;
+            color: $color-secondary;
+            background: $color-primary;
+            box-shadow: none;
+        }
+    }
+    @include breakpoint(ipad) {
+        .heading.left-side {
+            text-align: center;
+            margin-left: auto;
+        }
+        a.btn {
+            margin: 0 auto 30px;
+        }
+    }
+}

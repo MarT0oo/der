@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.dreamexoticrentals.com/generator/pages/mods/sitemap.xsl"?>
+<sitemapindex
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="
+            http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd">
+
+<sitemap>
+	<loc>https://www.dreamexoticrentals.com/sitemap_images1.xml</loc>
+	<lastmod>2020-03-31T01:50:56+00:00</lastmod>
+</sitemap>
+<sitemap>
+	<loc>https://www.dreamexoticrentals.com/sitemap_images2.xml</loc>
+	<lastmod>2020-03-31T01:50:56+00:00</lastmod>
+</sitemap>
+<sitemap>
+	<loc>https://www.dreamexoticrentals.com/sitemap_images3.xml</loc>
+	<lastmod>2020-03-31T01:50:56+00:00</lastmod>
+</sitemap>
+<sitemap>
+	<loc>https://www.dreamexoticrentals.com/sitemap_images4.xml</loc>
+	<lastmod>2020-03-31T01:50:56+00:00</lastmod>
+</sitemap>
+<sitemap>
+	<loc>https://www.dreamexoticrentals.com/sitemap_images5.xml</loc>
+	<lastmod>2020-03-31T01:50:56+00:00</lastmod>
+</sitemap>
+</sitemapindex>

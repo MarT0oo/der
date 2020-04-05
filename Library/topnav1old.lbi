@@ -1,0 +1,186 @@
+
+<section class="header">
+  <div class="header-inner">
+    <div class="container"> <a class="navbar-brand-secondary" href="http://dreamexoticrentals.com/"><img src="http://dreamexoticrentals.com/img/logo-der.png" alt="logo"></a>
+      <div class="row">
+        <div class="col-lg-6 col-lg-offset-6 text-right"> </div>
+      </div>
+    </div>
+  </div>
+  <nav class="nav">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li><a href="http://dreamexoticrentals.com/inquiry.htm">Reservations</a></li>
+        <li> <a href="http://dreamexoticrentals.com/destinations.htm">Destinations</a>
+          <div class="dropdown content-scrollbar">
+            <ul>
+              <li> <a href="http://dreamexoticrentals.com/Caribbean-vacation-holiday-villas.htm">CARIBBEAN </a>
+                <ul>
+                  <li><a href="http://dreamexoticrentals.com/properties/Caribbean/Anguilla-vacation-villas.htm">Anguilla</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/Caribbean/Antigua-vacation-villas.htm">Antigua</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/Caribbean/bahamas-vacation-villas.htm">Bahamas</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/Caribbean/barbados.htm">Barbados</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/Caribbean/Bonaire-vacation-villas.htm">Bonaire</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/Caribbean/virgin-islands-vacation-villas.htm">British Virgin Island</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/Caribbean/Cayman-vacation-villas.htm">Cayman Island</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/Caribbean/Curacao-vacation-villas.htm">Curacao</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/Caribbean/dominican-republic.htm">Dominican Republic</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/Caribbean/grenada-vacation-villas.htm">Grenada</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/Caribbean/jamaica-vacation-villas.htm">Jamaica</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/Caribbean/JumbyBayAntigua-vacation-villas.htm">Jumby</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/Caribbean/Nevis-vacation-villas.htm">Nevis</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/Caribbean/puerto-rico-vacation-villas.htm">Puerto Rico</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/Caribbean/st-barths-vacation-villas.htm">St. Barths</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/Caribbean/st-croix-vacation-villas.htm">St. Croix</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/Caribbean/st-john-vacation-villas.htm">St. John</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/Caribbean/st-lucia.htm">St. Lucia</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/Caribbean/st-maarten.htm">St. Maarten</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/Caribbean/st-thomas-vacation-villas.htm">St. Thomas</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/Caribbean/stvincent-vacation-villas.htm">St. Vincent / Grenadines</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/Caribbean/Trinidad-vacation-villas.htm">Trinidad / Tobago</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/Caribbean/turks-caicos-vacation-villas.htm">Turks &amp; Caicos</a></li>
+                </ul>
+              </li>
+              <li> <a href="http://dreamexoticrentals.com/united-states-luxury-villas.htm">UNITED STATES </a>
+                <ul>
+                  <li><a href="http://dreamexoticrentals.com/properties/UnitedStates/Arizona-vacation-villas.htm">Arizona</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/UnitedStates/Arkansas-vacation-rentals.htm">Arkansas</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/UnitedStates/California.htm">California</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/UnitedStates/Colorado-vacation-villas.htm">Colorado</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/UnitedStates/Connecticut-vacation-homes.htm">Connecticut</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/UnitedStates/Florida-vacation-villas.htm">Florida</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/UnitedStates/Georgia-vacation-villas.htm">Georgia</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/UnitedStates/hawaii.htm">Hawaii</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/UnitedStates/Idaho-vacation-villas.htm">Idaho</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/UnitedStates/Maine-vacation-villas.htm">Maine</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/UnitedStates/Massachusetts-vacation-villas.htm">Massachusetts</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/UnitedStates/Montana-vacation-villas.htm">Montana</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/UnitedStates/NCarolina-vacation-villas.htm">North Carolina</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/UnitedStates/Nevada-vacation-villas.htm">Nevada</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/UnitedStates/new-mexico.htm">New Mexico</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/UnitedStates/new-york.htm">New York</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/UnitedStates/RhodeIsland-vacation-homes.htm">Rhode Island</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/UnitedStates/SouthCarolina-vacation-villas.htm">South Carolina</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/UnitedStates/Tennessee-vacation-villas.htm">Tennessee</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/UnitedStates/Texas-vacation-villas.htm">Texas</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/UnitedStates/Utah-vacation-villas.htm">Utah</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/UnitedStates/Vermont-vacation-villas.htm">Vermont</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/UnitedStates/Washington-vacation-villas.htm">Washington</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/UnitedStates/Wyoming-vacation-rentals.htm">Wyoming</a></li>
+                </ul>
+              </li>
+              <li> <a href="http://dreamexoticrentals.com/Europe-holiday-vacation-villa.htm">EUROPE </a>
+                <ul>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Europe/austria-vacation-villas.htm">Austria</a></li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Europe/croatia-vacation-villas.htm">Croatia</a></li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Europe/czech-vacation-villas.htm">Czech Republic</a></li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Europe/england-vacation-villas.htm">England</a></li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Europe/france.htm">France</a></li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Europe/germany-vacation-villas.htm">Germany</a></li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Europe/Greece-vacation-villas.htm">Greece</a></li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Europe/ireland-vacation-villas-castles.htm">Ireland</a></li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Europe/italy.htm">Italy</a></li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Europe/netherlands-vacation-villas.htm">Netherlands</a></li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Europe/portugal-vacation-villas.htm">Portugal</a></li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Europe/scotland-vacation-villas.htm">Scotland</a></li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Europe/spain.htm">Spain</a></li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Europe/switzerland-vacation-villas.htm">Switzerland</a></li>
+                </ul>
+              </li>
+              <li> <a href="http://dreamexoticrentals.com/latin-america.htm">SOUTH/CENTRAL AMERICA </a>
+                <ul>
+                  <li> <a href="http://dreamexoticrentals.com/properties/LatinAmerica/argentina-vacation-villas.htm">Argentina</a></li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/LatinAmerica/belize.htm">Belize</a></li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/LatinAmerica/brazil.htm">Brazil</a></li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/LatinAmerica/colombia.htm">Colombia</a></li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/LatinAmerica/costa-rica.htm">Costa Rica</a></li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/LatinAmerica/honduras-vacation-villas.htm">Honduras</a></li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/LatinAmerica/mexico.htm">Mexico</a></li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/LatinAmerica/peru-vacation-villas.htm">Peru</a></li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/LatinAmerica/uruguay-vacation-villas.htm">Uruguay</a></li>
+                </ul>
+              </li>
+              <li> <a href="http://dreamexoticrentals.com/properties/Africa/africa-vacation-villas.htm">AFRICA </a>
+                <ul>
+                  <li> <a href="http://dreamexoticrentals.com/south-africa.htm">South Africa</a></li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Africa/Kenya.htm">Kenya</a></li>
+                </ul>
+              </li>
+              <li> <a href="http://dreamexoticrentals.com/properties/Worldwide/indonesia.htm">ASIA </a>
+                <ul>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Worldwide/Bali-vacation-villas.htm">Indonesia</a></li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Worldwide/Maldives-vacation-villas.htm">Maldives</a></li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Worldwide/Thailand-vacation-villas.htm">Thailand</a></li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Worldwide/fiji-vacation-villas.htm">Fiji</a></li>
+                  <li><a href="http://dreamexoticrentals.com/properties/Worldwide/SriLanka.htm">Sri Lanka</a></li>
+                </ul>
+              </li>
+              <li> <a href="http://dreamexoticrentals.com/properties/Worldwide/australia-vacation-villas.htm">AUSTRALIA </a>
+                <ul>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Worldwide/Victoria-vacation-villas.htm">Victoria</a></li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Worldwide/Queensland-vacation-villas.htm">Queensland</a></li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Worldwide/NewSouthWales-vacation-villas.html">New South Wales</a></li>
+                </ul>
+              </li>
+              <li> <a href="http://dreamexoticrentals.com/canada.htm">CANADA </a>
+                <ul>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Canada/british-columbia.htm">British Columbia</a></li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Canada/Ontario-Canada.htm">Ontario</a></li>
+                </ul>
+              </li>
+              
+              
+              
+              <li> <a href="http://dreamexoticrentals.com/properties/Worldwide/new-zealand.htm">NEW ZEALAND </a>
+                <ul>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Worldwide/BayofIslands-vacation-villas.htm">North Island</a></li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Worldwide/Queenstown-vacation-villas.htm">South Island</a></li>
+                </ul>
+              </li>
+              <li> <a href="http://dreamexoticrentals.com/middle-east.htm">MIDDLE EAST </a>
+                <ul>
+                  <li> <a href="http://dreamexoticrentals.com/properties/MiddleEast/dubai.htm">Dubai</a></li>
+                </ul>
+              </li>
+              <li> <a href="http://dreamexoticrentals.com/properties/Worldwide/morocco.htm">MOROCCO </a>
+                <ul>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Worldwide/Marrakech-vacation-rentals.htm">Marrakech</a></li>
+                </ul>
+              </li>
+              <li> <a href="http://dreamexoticrentals.com/properties/Islands/PrivateIslandRentals.htm">PRIVATE ISLAND VACATIONS</a>
+                <ul>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Worldwide/vacation-fiji-wadigi.htm">Wadigi Island</a> </li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Islands/vacation-belize-island.htm">Private Island Belize</a> </li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Worldwide/vacation-bali-isledesindes.htm">Isle Des Indes Private Island</a> </li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Islands/vacation-newzealand-cavalli.htm">Cavalli Island Retreat & Spa</a> </li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/UnitedStates/Florida/vacation-orlando-pri-island.htm">Orlando 62 Acre Private Island</a> </li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Islands/Islands/vacation-rental-bahamas.htm">Little Whale Cay</a> </li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Islands/vacation-rental-cayo-espanto.htm">Cayo Espanto Private Island</a> </li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Caribbean/vacation-virginislands-necker.htm">Necker Island</a> </li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Caribbean/Kamalame.htm">Kamalame Private Island & Estate</a> </li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Islands/vacation-rental-mushacay.htm">Musha Cay & Islands of Copperfield Bay</a> </li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Islands/vacation-Maldives-CocoPriveKudaHithi.htm">Coco Prive Kuda Hithi</a> </li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Worldwide/vacation-Austrailia-MakepeaceIsland.htm">Make Peace Island</a> </li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Caribbean/bahamas/vacation-Bahamas-OverYonderCay.htm">Over Yonder Cay</a> </li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Caribbean/vacation-rental-calivigny-island.htm">Calivigny Island</a> </li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Caribbean/parrotcay-private-islands.htm">Parrot Cay</a> </li>
+                  <li> <a href="http://dreamexoticrentals.com/properties/Caribbean/JumbyBayAntigua-vacation-villas.htm">Jumby Bay</a> </li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </li>
+        <li><a href="http://www.dreamexoticrentals.com/travel-agents.htm">Travel Agents</a></li>
+        <li><a href="http://www.dreamexoticrentals.com/list-your-property.htm">List Your Home</a></li>
+        <li><a href="http://www.dreamexoticrentals.com/faq.htm">FAQ</a></li>
+        <li><a href="http://www.dreamexoticrentals.com/contact.htm" class="btn btn-lg btn-info">Contact us</a></li>
+        <li class="phone"> +1 786-293-9061<br />
+          +1 866-293-9061 </li>
+      </ul>
+    </div>
+  </nav>
+  <!-- /.nav --> 
+</section>

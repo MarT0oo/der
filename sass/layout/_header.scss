@@ -1,0 +1,263 @@
+//Header Content Here
+header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: em(30) em(15);
+    z-index: 999;
+    @include breakpoint(normal) {
+        padding: em(15) em(15);
+    }
+    @include breakpoint(mobile) {
+        padding: em(10) em(0);
+    }
+    .container-fluid {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        @include breakpoint(mobile) {
+            flex-wrap: wrap;
+        }
+    }
+    .cta-area {
+        a[href*="tel:"] {
+            font-size: em(21);
+            font-style: italic;
+            font-weight: 400;
+            font-family: $serif;
+            color: #fff;
+            &:before {
+                content: "";
+                display: inline-block;
+                width: 22px;
+                height: 20px;
+                background: url('../images/mobile-icon.png') no-repeat center;
+                background-size: 100%;
+                position: relative;
+                margin-right: 8px;
+                top: 3px;
+            }
+            &:hover,
+            &:focus {
+                color: $color-secondary;
+            }
+        }
+        @include breakpoint(mobile) {
+            width: 100%;
+            text-align: center;
+            margin-bottom: 5px;
+        }
+    }
+    .logo {
+        left: 61px;
+        position: relative;
+        @include breakpoint(desktop) {
+            left: 40px;
+        }
+        @include breakpoint(mobile) {
+            left: 0px;
+            width: 110px;
+        }
+        @include breakpoint(mobile-s) {
+            left: 0px;
+            width: 90px;
+        }
+    }
+    .nav {
+        ul {
+            margin: 0;
+            padding: 0;
+            li {
+                display: inline-block;
+                vertical-align: middle;
+                margin-left: em(25);
+                font-family: $sans-serifB;
+                font-weight: normal;
+                a {
+                    font-size: em(22);
+                    color: #fff;
+                    letter-spacing: 0.1em;
+                    padding-bottom: 10px;
+                    &.dropdown-toggle:after {
+                        vertical-align: 3px;
+                    }
+                    img {
+                        display: inline-block;
+                        vertical-align: middle;
+                        margin-left: em(5);
+                    }
+                    &:hover,
+                    &:focus {
+                        color: $color-secondary;
+                    }
+                    @include breakpoint(mobile) {
+                        font-size: em(18);
+                    }
+                }
+                @include breakpoint(mobile) {
+                    margin-left: em(20);
+                }
+                &.dropdown {
+                    position: static;
+                }
+                .dropdown-menu {
+                    right: 30px;
+                    left: 30px !important;
+                    top: 80px !important;
+                    transform: none !important;
+                    bottom: 0;
+                    height: 100%;
+                    overflow: hidden;
+                    overflow-y: scroll;
+                    background: $color-primary;
+                    border: none;
+                    margin: 0;
+                    padding: em(15) em(20) em(10);
+                    display: block !important;
+                    pointer-events: none;
+                    opacity: 0;
+                    @include breakpoint(mobile) {
+                      left: 15px !important;
+                      padding: em(10) em(15);
+                      right: 15px;
+                    }
+                    ul {
+                        margin: 0;
+                        padding: 0;
+                        &>li {
+                            display: inline-block;
+                            width: 100%;
+                            margin-bottom: 20px;
+                            margin-left: 0;
+                            &>a {
+                                color: #fff;
+                                text-transform: capitalize;
+                                font-size: em(20);
+                                font-family: $serif;
+                                letter-spacing: 0.08em;
+                                margin-bottom: em(10);
+                                display: inline-block;
+                                @include breakpoint(mobile) {
+                                  font-size: em(17);
+                                }
+                                &:before {
+                                    content: "";
+                                    display: inline-block;
+                                    vertical-align: top;
+                                    width: 16px;
+                                    height: 22px;
+                                    background: url('../images/location-pin.png') no-repeat;
+                                    background-size: 100%;
+                                    margin-right: 7px;
+                                    position: relative;
+                                    top: 6px;
+                                    @include breakpoint(mobile) {
+                                      top: 4px;
+                                    }
+                                }
+                                &:hover,
+                                &:focus {
+                                    color: $color-secondary;
+                                }
+                            }
+                            &>ul {
+                                column-count: 5;
+                                @include breakpoint(ipad) {
+                                    column-count: 1;
+                                }
+                                @include breakpoint(mobile) {
+                                    column-count: 1;
+                                }
+                                &>li {
+                                    display: inline-block;
+                                    margin-bottom: 0px;
+                                    padding-right: 5px;
+                                    vertical-align: top;
+                                    margin-right: -4px;
+                                    @include breakpoint(mobile) {
+                                        width: 50%;
+                                    }
+                                    &>a {
+                                        text-transform: capitalize;
+                                        font-size: em(19);
+                                        letter-spacing: 0.06em;
+                                        font-family: 'Lato', sans-serif;
+                                        margin-bottom: em(0);
+                                        display: inline-block;
+                                        padding-left: 25px;
+                                        padding-bottom: 5px;
+                                        position: relative;
+                                        @include breakpoint(mobile) {
+                                            font-size: em(16);
+                                        }
+                                        &::before {
+                                            content: "";
+                                            position: absolute;
+                                            top: 8px;
+                                            left: 8px;
+                                            width: 6px;
+                                            height: 6px;
+                                            background: $color-secondary;
+                                            border-radius: 100%;
+                                            @include breakpoint(mobile) {
+                                              left: 5px;
+                                            }
+                                        }
+                                        &:hover,
+                                        &:focus {
+                                            color: $color-secondary;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+                &:hover{
+                    .dropdown-menu{
+                        opacity: 1;
+                        pointer-events: auto;
+                    }
+                }
+                &.show{
+                    .dropdown-menu.show{
+                        display: block !important;
+                        pointer-events: auto;
+                        opacity: 1;
+                    }
+                }
+            }
+        }
+    }
+}
+
+#slide-menu {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    width: 280px;
+    right: -280px;
+    z-index: 9999;
+    @include transition;
+    background: $color-primary;
+    ul {
+        margin: 0;
+        padding: 0;
+        li {
+            display: inline-block;
+            border-bottom: solid 1px rgb(62, 62, 62);
+            width: 100%;
+            a {
+                display: block;
+                padding: em(10) em(15);
+                color: #fff;
+                font-size: em(22);
+                &:hover,
+                &:focus {
+                    color: $color-secondary;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* California */
+
+
+.img_box{width:637px; height: auto; padding:10px 0 0 0; float:left;overflow:hidden;}
+.img_box_1{width:637px; height:21px; background: url("/properties/UnitedStates/images/img_06.jpg"/*tpa=http://www.agentvillas.com/properties/UnitedStates/images/img_06.jpg*/) no-repeat; padding:3px 0 0 0; float:left;overflow:hidden;}
+.img_box_1-2{width:637px; height:21px; background: url("/properties/UnitedStates/images/img_06-2.jpg"/*tpa=http://www.agentvillas.com/properties/UnitedStates/images/img_06-2.jpg*/) no-repeat; padding:3px 0 0 0; float:left;overflow:hidden;}
+.img_box_2{width:637px; height: auto; color:#4e516a; background: url("/properties/UnitedStates/images/img_07.jpg"/*tpa=http://www.agentvillas.com/properties/UnitedStates/images/img_07.jpg*/) no-repeat; padding:3px 0 0 0; float:left;overflow:hidden;}
+/*.ca_title{width:627px; height:24px; padding:10px 0px 0px 10px; float:left;overflow:hidden;}*/
+.img_box_f{width:100px; height: auto; padding:0 0 0 7px; float:left;overflow:hidden;}
+.img_box_f-1{width:600px; height: auto; padding:0 0 10px 7px; float:left;overflow:hidden;}
+.img_box_f1{width:63px; height:31px; padding:0 0 0 7px; float:left;overflow:hidden;}
+.img_box_f2{width:99px; height:21px; padding:0 0 0 7px; float:left;overflow:hidden;}
+.photo_room{width:133px; padding:5px 10px 0 0; float:left;overflow:hidden;}
+.photo_room_f{width:484px; height: auto; line-height:18px; padding:5px 10px 0 0; float:left;overflow:hidden;}
+.photo_room_f a{color:#4e516a; text-decoration:underline;}
+.photo_room_f a:hover {color:#4e516a;}
+
+.box_right_cont_1{width:305px; height: auto;  float:left;overflow:hidden;}
+.collapse_1{width:300px; height: auto;  float:left;overflow:hidden;}
+.collapse_2{width:300px; height: auto;  float:left;overflow:hidden; background:#f1f1f3;}
+.box_right_cont_2{width:305px; height: auto;  float:left;overflow:hidden;}

@@ -1,0 +1,146 @@
+footer{
+    background: #1a1a1a;
+    padding: em(120) 0;
+    overflow: hidden;
+    position: relative;
+    @include breakpoint(mobile){
+        padding: em(60) 0;
+    }
+    & *{
+        position: relative;
+        z-index: 5;
+    }
+    
+    h5{
+        font-family: $sans-serifB;
+        color: $color-secondary;
+        font-size: em(22);
+        letter-spacing: 0.1em;
+        margin-bottom: 25px;
+    }
+    ul{
+        margin: 0;
+        padding: 0;
+        li{
+            font-family:'Lato', sans-serif;
+            font-size: 14px;
+            color: #fff;
+            margin-bottom: 12px;
+            display: inline-block;
+            width: 100%;
+            a{
+                color: #fff;
+                    &:hover, &:focus{
+                        color: $color-secondary;
+                    }
+            }
+        }
+        @include breakpoint(mobile){
+            margin-bottom: 30px;
+        }
+    }
+    .footer-logo{
+        text-align: center;
+        margin-bottom: em(30);
+    }
+    .footer-social-links{
+        text-align: center;
+        margin-bottom: em(50);
+        ul{
+            margin: 0;
+            padding: 0;
+            li{
+                display: inline-block;
+                vertical-align: middle;
+                margin:0 8px;
+                width: auto;
+                a{
+                    font-size: 18px;
+                    color: #fff;
+                    &:hover, &:focus{
+                        color: $color-secondary;
+                    }
+                }
+            }
+        }
+    }
+    .footer-address{
+        width: 100%;
+        max-width: 420px;
+        margin: em(80) auto 0;
+        position: relative;
+        z-index: 1;
+        &:before{
+            content: "";
+            position: absolute;
+            top: -470px;
+            right: 0px;
+            left: -400px;
+            bottom: 0;
+            background: url('../images/footer-map.png') no-repeat;
+            background-size: 100%;
+            width: 1399px;
+            height:734px;
+            z-index: 1;
+        }
+        
+        h5{
+            margin-bottom: 10px;
+            position: relative;
+            &::before{
+                content: "";
+                position: absolute;
+                width:8px;
+                height: 8px;
+                background: #fff;
+                border-radius: 100%;
+                display: inline-block;
+                left: -39px;
+                top: 8px;
+            }
+            &::after{
+                content: "";
+                position: absolute;
+                width:8px;
+                height: 8px;
+                border:solid 1px #fff;
+                border-radius: 100%;
+                display: inline-block;
+                left: -39px;
+                top: 8px;
+                animation: pointer 2s ease-in-out forwards infinite;
+            }
+        }
+        ul{
+            display: flex;
+            align-items: flex-start;
+            justify-content: flex-start;
+            @include breakpoint(mobile){
+                flex-wrap: wrap;
+            }
+            li{
+                width: 50%;
+                font-family: $serif;
+                font-style: italic;
+                @include breakpoint(mobile){
+                    width: 100%;
+                }
+            }
+        }
+        @include breakpoint(mobile){
+            max-width: 250px;
+            margin-top: em(40);
+        }
+    }
+}
+
+@keyframes pointer{
+    from{
+        transform: scale(1);
+        opacity: 0.70;
+    }
+    to{
+        transform: scale(5);
+        opacity: 0;
+    }
+}

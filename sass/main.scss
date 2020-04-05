@@ -1,0 +1,39 @@
+/*!
+CSS Document
+Project Name: Dream Exotic Rental
+Project Description: Dream Exotic Rental
+Written By: Pankaj Dhiman
+Created On: 11/21/2018
+Last Modified:
+*/
+// Vendors and external stylesheets
+@import "vendors/bootstrap";
+@import "vendors/font-awesome"; 
+@import "vendors/owl.carousel.min"; 
+
+
+// Sass utilities
+@import "helpers/variables";
+@import "helpers/functions";
+@import "helpers/mixins";
+
+// Base stuff
+@import "base/reset";
+@import "base/typography";
+
+// Layout related stylesheets
+@import "layout/header";
+@import "layout/footer";
+@import "layout/sidebar";
+@import "layout/forms";
+@import "layout/style";
+
+// Components and modules
+@import "components/buttons";
+
+// Page-specific stylesheets
+@import "pages/home";
+
+// Themes
+@import "themes/theme";
+@import "themes/admin";

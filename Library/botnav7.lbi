@@ -1,0 +1,66 @@
+
+<div id="footer">
+    <div id="main_0_footer_0_footerTop" class="footerTop">
+    <div id="main_0_footer_0_footerTopContent" class="footer_content">
+        <div class="footerColumn column1">
+            <h4 class="menu-title">
+	Products
+</h4><ul class="products-navigation">
+	<li class="main-menu-item first 1"><a class="menu-link" href="/en-us/interior-design/" target="_self"><span><span>Interior Design</span></span></a></li><li class="main-menu-item 2"><a class="menu-link" href="/en-us/3d-planning/" target="_self"><span><span>3D Planning</span></span></a></li><li class="main-menu-item 3"><a class="menu-link" href="/en-us/business-management/" target="_self"><span><span>Business Management</span></span></a></li><li class="main-menu-item 4"><a class="menu-link" href="/en-us/manufacturing/" target="_self"><span><span>Manufacturing</span></span></a></li><li class="main-menu-item 5"><a class="menu-link" href="/en-us/catalog-and-content/" target="_self"><span><span>Catalog and Content</span></span></a></li><li class="main-menu-item last 6"><a class="menu-link" href="/en-us/industries-and-professions/" target="_self"><span><span>Industries and Professions</span></span></a></li>
+</ul>
+        </div>
+        <div class="footerColumn column2">
+            <div class='menu-link'><h4>Why choose 20-20</h4><p>20-20 Technologies’ solutions cover the entire furniture design and manufacturing chain. We are the leaders in solutions for furniture makers and dealers, setting the standard for more than 25 years.</p><a href='/en-us/why-choose-2020' class='custom-button' target=''><span><span>Read more</span></span></a></div>
+        </div>
+        <div class="footerColumn column3">
+            <div class='menu-link'><h4>Let's interact</h4><ul><li><a target="_blank" class="twitter" href="http://twitter.com/#!/2020tech">Follow us</a></li><li><a target="_blank" class="facebook" href="http://www.facebook.com/2020Technologies">Fan us </a></li><li><a target="_blank" class="youtube" href="http://www.youtube.com/user/2020Technologies2020">Watch our videos</a></li><li><a target="_blank" class="linkedin" href="http://www.linkedin.com/groups?about=&amp;gid=2949501">Join our group</a></li><li><a target="_blank" class="rss" href="/en-US/RSS">Subscribe now</a></li></ul></div>
+        </div>
+        <div class="footerColumn column4">
+            <div class='scfForm' id="form_DE2FA06DA6B0460EA48242E64249359C"><input type="hidden" name="main_0$footer_0$form_DE2FA06DA6B0460EA48242E64249359C$formreference" id="main_0_footer_0_form_DE2FA06DA6B0460EA48242E64249359C_formreference" value="form_DE2FA06DA6B0460EA48242E64249359C" /><input type="hidden" name="main_0$footer_0$form_DE2FA06DA6B0460EA48242E64249359C$form_DE2FA06DA6B0460EA48242E64249359C_eventcount" id="main_0_footer_0_form_DE2FA06DA6B0460EA48242E64249359C_form_DE2FA06DA6B0460EA48242E64249359C_eventcount" /><h1 class="scfTitleBorder">
+
+</h1><div class="scfIntroBorder">
+	<h4>Subscribe to our newsletter</h4>
+<p>Sign up for our periodic e-newsletter with the latest on the industry, our products and our partners.</p>
+</div><div id="main_0_footer_0_form_DE2FA06DA6B0460EA48242E64249359C__summary" class="scfValidationSummary" style="display:none;">
+
+</div><div id="main_0_footer_0_form_DE2FA06DA6B0460EA48242E64249359C__submitSummary" class="scfSubmitSummary" style="color:Red;">
+
+</div><div onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;main_0_footer_0_form_DE2FA06DA6B0460EA48242E64249359C_form_DE2FA06DA6B0460EA48242E64249359C_submit&#39;)">
+	<div class="scfSectionBorder">
+		<div class="scfSectionBorder">
+			<div class="scfSectionContent">
+				<div id="main_0_footer_0_form_DE2FA06DA6B0460EA48242E64249359C_field_4A360115409C4992A3515989D7C92BE8_scope" class="scfEmailBorder fieldid.%7b4A360115-409C-4992-A351-5989D7C92BE8%7d name.Email+Address">
+					<label for="main_0_footer_0_form_DE2FA06DA6B0460EA48242E64249359C_field_4A360115409C4992A3515989D7C92BE8" id="main_0_footer_0_form_DE2FA06DA6B0460EA48242E64249359C_field_4A360115409C4992A3515989D7C92BE8_text" class="scfEmailLabel">Email</label><div class="scfEmailGeneralPanel">
+						<input name="main_0$footer_0$form_DE2FA06DA6B0460EA48242E64249359C$field_4A360115409C4992A3515989D7C92BE8" type="text" value="Enter your e-mail" id="main_0_footer_0_form_DE2FA06DA6B0460EA48242E64249359C_field_4A360115409C4992A3515989D7C92BE8" class="scfEmailTextBox" /><span class="scfEmailUsefulInfo" style="display:none;"></span><span id="main_0_footer_0_form_DE2FA06DA6B0460EA48242E64249359C_field_4A360115409C4992A3515989D7C92BE85D10AF7533054C39908EB25E8CB4ABDC_validator" class="scfValidator trackevent.%7b844BBD40-91F6-42CE-8823-5EA4D089ECA2%7d fieldid.%7b4A360115-409C-4992-A351-5989D7C92BE8%7d inner.1" style="display:none;">Enter a valid e-mail address.</span>
+					</div><span class="scfRequired">*</span>
+				</div>
+			</div>
+		</div>
+	</div>
+</div><div class="scfFooterBorder">
+
+</div><div>
+	<input type="submit" name="main_0$footer_0$form_DE2FA06DA6B0460EA48242E64249359C$form_DE2FA06DA6B0460EA48242E64249359C_submit" value="Subscribe »" onclick="$scw.webform.lastSubmit = this.id;WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;main_0$footer_0$form_DE2FA06DA6B0460EA48242E64249359C$form_DE2FA06DA6B0460EA48242E64249359C_submit&quot;, &quot;&quot;, true, &quot;form_DE2FA06DA6B0460EA48242E64249359C_submit&quot;, &quot;&quot;, false, false));$scw.webform.validators.setFocusToFirstNotValid(&#39;form_DE2FA06DA6B0460EA48242E64249359C_submit&#39;)" id="main_0_footer_0_form_DE2FA06DA6B0460EA48242E64249359C_form_DE2FA06DA6B0460EA48242E64249359C_submit" class="scfSubmitButton" />
+</div></div>
+        </div>
+    </div>
+</div>
+<div id="main_0_footer_0_footerBottom" class="footerBottom">
+    <div id="main_0_footer_0_footerBottomContent" class="footer_content">
+        <ul class="footer-navigation">
+	<li class="main-menu-item first 1"><a class="menu-link" href="/en-us/site-map/" target="_self"><span><span>Site Map</span></span></a></li><li class="main-menu-item 2"><a class="menu-link" href="/en-us/terms-of-use/" target="_self"><span><span>Terms of Use</span></span></a></li><li class="main-menu-item 3"><a class="menu-link" href="/en-us/privacy/" target="_self"><span><span>Privacy</span></span></a></li><li class="main-menu-item last 4"><a class="menu-link" href="/en-us/impressum/" target="_self"><span><span></span></span></a></li>
+</ul>
+        <span id="footer-copyright">20-20 Technologies Inc. All rights reserved 2013</span>
+    </div>
+</div> 
+</div>
+ 
+    
+
+
+
+
+
+
+</form>
+

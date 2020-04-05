@@ -1,0 +1,39 @@
+		.trigger{
+		    width:427px;
+		    height:34px;
+			cursor:pointer;
+			background:url("../properties/UnitedStates/images/title_right1_bg1.jpg"/*tpa=http://www.dreamexoticrentals.com/properties/UnitedStates/images/title_right1_bg1.jpg*/) top left no-repeat;
+			line-height:34px;
+		}	
+		.trigger2{
+		    width:300px;
+		    height:34px;
+			cursor:pointer;
+			background:url("../images/design-images/title_right1_bg.jpg"/*tpa=http://www.dreamexoticrentals.com/images/design-images/title_right1_bg.jpg*/) top left no-repeat;
+			line-height:34px;
+		}		
+		.trigger:hover{
+			cursor:pointer;
+			background:url("../properties/UnitedStates/images/title_right1_bg1.jpg"/*tpa=http://www.dreamexoticrentals.com/properties/UnitedStates/images/title_right1_bg1.jpg*/) top left no-repeat;
+		}		
+		.expanded{
+			background:url("../properties/UnitedStates/images/title_right1_bg1.jpg"/*tpa=http://www.dreamexoticrentals.com/properties/UnitedStates/images/title_right1_bg1.jpg*/) top left no-repeat;
+			height:34px;
+			line-height:34px;
+			cursor:pointer;
+		}
+		.expanded:hover{
+			background:url("../properties/UnitedStates/images/title_right1_bg1.jpg"/*tpa=http://www.dreamexoticrentals.com/properties/UnitedStates/images/title_right1_bg1.jpg*/) top left no-repeat;
+			cursor:pointer;
+		}
+		.show{
+     position:static;
+     display: table;
+		}
+		.hide{
+			position:absolute;
+			left:-999em;
+			height:1px;
+			width:100px;
+			overflow:hidden;
+		}

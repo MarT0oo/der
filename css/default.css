@@ -1,0 +1,129 @@
+/*
+ * jQuery Nivo Slider v1.8
+ * http://nivo.dev7studios.com
+ *
+ * Copyright 2010, Gilbert Pellegrom
+ * Free to use and abuse under the MIT license.
+ * http://www.opensource.org/licenses/mit-license.php
+ * 
+ * March 2010
+ */
+ 
+ 
+/* The Nivo Slider styles */
+#slider {
+	position:relative;
+ 	background:url(images/loading.gif) no-repeat 50% 50%; 
+	height:287px;
+	width:960px;
+    }
+#slider img {
+	position:absolute;
+	top:0px;
+	left:0px;
+	
+}
+.nivoSlider {
+	position:relative;
+	float:left;
+}
+.nivoSlider img {
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+/* If an image is wrapped in a link */
+.nivoSlider a.nivo-imageLink {
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:100%;
+	border:0;
+	padding:0;
+	margin:0;
+	z-index:60;
+ 
+}
+.nivo-html-caption {
+    display:none;
+	font-size:13px;
+}
+.nivo-html-caption strong, .nivo-caption strong{
+	font-size:16px;
+	color:#e00525;
+	font-weight:bold;
+}
+/* The slices in the Slider */
+.nivo-slice {
+	display:block;
+	position:absolute;
+	z-index:50;
+	height:100%;
+}
+/* Caption styles */
+.nivo-caption {
+	position:absolute;
+	right:0px;
+	bottom:0px;
+ 	color:#fff;
+	opacity:0.7; /* Overridden by captionOpacity setting */
+	width:180px;
+	height:234px;
+	z-index:89;
+	padding:40px 10px 10px 10px;
+	display:none
+ }
+.nivo-caption p {
+	padding:5px;
+	margin:0;
+	display:none
+}
+/* Direction nav styles (e.g. Next & Prev) */
+.nivo-directionNav a {
+	display:block;
+	position:absolute;
+	top:38%;
+	z-index:99;
+	width:46px;
+	height:80px;
+	background:url(images/arrows-big.png) no-repeat;
+	cursor:pointer;
+	text-indent:-9999px;
+	float:left;
+}
+a.nivo-prevNav {
+	left:20px;
+}
+a.nivo-nextNav {
+	background-position:-46px;
+	right:20px;
+}
+/* Control nav styles (e.g. 1,2,3...) */
+.nivo-controlNav {
+	position:absolute;
+	right:45%;
+	top:-9999em;
+	z-index:999;
+	
+}
+
+.nivo-controlNav a {
+	display:block;
+	width:11px;
+	height:13px;
+	background:url(images/12.png) no-repeat;
+	border:0;
+	margin-right:12px;
+	float:left;
+	position:relative;
+	z-index:99;
+	cursor:pointer;
+	color:#000;
+	text-indent:-99999em;
+ }
+ 
+.nivo-controlNav a.active, .nivo-controlNav a.hover {
+	background:url(images/12.png) no-repeat -25px 0;
+	border:0
+}

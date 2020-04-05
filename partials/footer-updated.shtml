@@ -1,0 +1,241 @@
+<section class="gray-section contact-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6">
+        <div class="heading left-side">
+          <h2><small>contact us</small>Can’t pick the right destination?</h2>
+        </div>
+        <p>Are you having a had time making a decision and going through all of the options? Let us do the work for you.</p>
+
+        <p>Finding a Vacation Home doesn't have to be difficult. Let us help you find the right luxury villa for your family. Simply give us some basic information about your next dream trip and we will send you options in one email. You can always reach us by email, phone or chat. We even have a SKYPE (dreamexoticrentals). So never feel alone again let professionals with 20 years of experience make booking your vacation rental easy. Just fill out the form and we'll do the rest!</p>
+      </div>
+      <div class="col-lg-6">
+        <div class="contact-form">
+          <form action="/email-homepage1.php" method="post">
+            <div class="row">
+              <div class="col-sm-6">
+                <div class="form-group">
+                  <input type="text" class="form-control"  name="field-fname" id="field-fname" placeholder="First Name (required)" required>
+                </div>
+              </div>
+              <div class="col-sm-6">
+                <div class="form-group">
+                  <input type="text" class="form-control" name="field-lname" id="field-lname" placeholder="Last Name">
+                </div>
+              </div>
+              <div class="col-sm-6">
+                <div class="form-group">
+                  <input type="text" class="form-control" name="field-email" id="field-email" placeholder="E-mail address (required)" required>
+                </div>
+              </div>
+              <div class="col-sm-6">
+                <div class="form-group">
+                  <input type="text" class="form-control" name="field-phone" id="field-phone" placeholder="Phone number">
+                </div>
+              </div>
+              <div class="col-sm-6">
+                <div class="form-group">
+                  <input type="date" class="form-control" name="field-dates" id="field-dates" placeholder="Travel date">
+                </div>
+              </div>
+              <div class="col-sm-6">
+                <div class="form-group">
+                  <input type="text" class="form-control" name="field-location" id="field-location" placeholder="Location">
+                </div>
+              </div>
+              <div class="col-sm-12">
+                <div class="form-group">
+
+                  <textarea class="form-control" name="field-message" id="field-message" placeholder="Message"></textarea>
+                </div>
+              </div>
+              <div class="col-sm-6">
+                <div class="form-group">
+                  <input name="captcha" type="text" class="form-control" placeholder="Enter the code*">
+                  <img src="/simple-captcha.php" /> </div>
+              </div>
+              <div class="col-sm-6">
+                <div class="form-actions">
+                  <div class="text-center">
+                    <input type="submit" class="btn" value="Submit inquiry" name="submit" >
+                  </div>
+                </div>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer id="footer-main">
+
+  <div class="container">
+    <div class="row">
+      <ul class="list-bottom-features">
+        <li>
+          <span>
+            <i class="fa fa-volume-control-phone" aria-hidden="true"></i>
+          </span>
+
+          <h6>Here for you 24/7</h6>
+        </li>
+        <li>
+          <span>
+            <i class="fa fa-gift" aria-hidden="true"></i>
+          </span>
+
+          <h6>Hand Picked Selection</h6>
+        </li>
+        <li>
+          <span>
+            <i class="fa fa-check-square-o" aria-hidden="true"></i>
+          </span>
+
+          <h6>Best Price or Better</h6>
+        </li>
+        <li>
+          <span>
+            <i class="fa fa-user-circle-o" aria-hidden="true"></i>
+          </span>
+
+          <h6>Exclusively Managed Homes</h6>
+        </li>
+        <li>
+          <span>
+            <i class="fa fa-suitcase" aria-hidden="true"></i>
+          </span>
+
+          <h6>Exclusive Tours & Trips</h6>
+        </li>
+        <li>
+          <span>
+            <i class="fa fa-file-text" aria-hidden="true"></i>
+          </span>
+
+          <h6>Licensed & Insured</h6>
+        </li>
+      </ul>
+    </div>
+    <!-- <div class="footer-logo"> <a href="index.html"><img src="/images/logo.png" alt="Logo"></a> </div> -->
+    <div class="footer-social-links">
+      <ul>
+        <li><a href="https://www.facebook.com/dreamexoticrentals" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+        <li><a href="https://twitter.com/dreamexoticrent" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+        <li><a href="https://www.pinterest.com/dreamexoticrentals/" target="_blank"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a></li>
+        <li><a href="https://www.instagram.com/dreamexoticrentals/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+        <li><a href="https://vimeo.com/dreamexoticrentals" target="_blank"><i class="fa fa-vimeo" aria-hidden="true"></i></a></li>
+        <li><a href="https://weheartit.com/DreamExoticRentals" target="_blank"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
+      </ul>
+    </div>
+    <div class="row">
+      <div class="col-lg-3 col-6">
+        <h5>About Us</h5>
+        <ul>
+          <li><a href="/about.htm">About us</a></li>
+          <li><a href="/team-members.htm">Team members</a></li>
+          <li><a href="/faq.htm">How to Use this Site</a></li>
+          <li><a href="https://www.trustlink.org/Reviews/Luxury-Lifestyle-Management-Inc-205994490">Reviews</a></li>
+          <li><a href="/mission-statement-new.htm">Mission Statement</a></li>
+          <li><a href="/awards.htm">Awards & Press</a></li>
+          <li><a href="/contact.htm">Contact Us</a></li>
+          <li><a href="https://www.dreamexoticrentals.com/grab-the-deal.htm">Grab the Deal</a></li>
+          <li ><a href="/list-your-property.htm">List your home</a></li>
+        </ul>
+      </div>
+
+      <div class="col-lg-3 col-6">
+        <h5>Legal</h5>
+        <ul>
+          <li><a href="/PrivacyPolicy.htm">Privacy Policies</a></li>
+          <li><a href="/terms.htm">Terms of Service</a></li>
+          <li>STL ST38984</li>
+          <!--<li><a href="javascript:void(0);">ASTA # 900184367</a></li>-->
+          <li>ASTA # 900184367</li>
+          <li><a href="https://secure.validatedsite.com/seal/seal_details.aspx?x=LBGifCsMsnSXKCChSpyNlvCKNlYAWdieGkgmNfwqNlBWJEUbcq&siteid=50422&d=www.dreamexoticrentals.com&y=LBGifCsMsnSXKCChSpyNlvCKNlYAWdieGkgmNfwqNlBWJEUbcq">Validated Site</a></li>
+        </ul>
+      </div>
+
+      <div class="col-lg-3 col-6">
+        <h5>Top Destinations</h5>
+        <ul>
+          <li><a href="https://www.dreamexoticrentals.com/Caribbean-vacation-holiday-villas.htm">Caribbean</a></li>
+
+          <li><a href="https://www.dreamexoticrentals.com/properties/Europe/italy.htm">Italy</a></li>
+
+          <li><a href="https://www.dreamexoticrentals.com/properties/Worldwide/NewSouthWales-vacation-villas.htm">Sydney</a></li>
+
+          <li><a href="https://www.dreamexoticrentals.com/properties/Islands/PrivateIslandRentals.htm">Private Islands</a></li>
+
+          <li><a href="https://www.dreamexoticrentals.com/properties/LatinAmerica/mexico.htm">Mexico</a></li>
+
+          <li><a href="https://www.dreamexoticrentals.com/properties/Europe/spain.htm">Spain</a></li>
+
+          <li><a href="https://www.dreamexoticrentals.com/properties/Europe/croatia-vacation-villas.htm">Croatia</a></li>
+
+          <li><a href="https://www.dreamexoticrentals.com/properties/Europe/Greece-vacation-villas.htm">Greece</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-3 col-6">
+        <h5>Travel Agents</h5>
+        <ul>
+          <li><a href="https://www.dreamexoticrentals.com/travel-agents.htm">Travel Agents Signup</a></li>
+          <li><a href="https://www.dreamexoticrentals.com/contact.htm">Contact Us</a></li>
+          <li><a href="https://www.dreamexoticrentals.com/faq.htm">How to Book</a></li>
+          <li><a href="https://www.dreamexoticrentals.com/destinations.htm">Destinations</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-address">
+      <h5>Dream Exotic Rentals</h5>
+      <ul>
+        <!-- <li>15321 S. Dixie Hwy.<br>
+          Palmetto Bay, FL 33157</li> -->
+        <li>Intl: <a href="tel:+1 786-293-9061">+1 786-293-9061</a><br>
+          USA: <a href="tel:+1 866-293-9061">+1 866-293-9061</a><br />
+          Skype: <a href="skype:dreamexoticrentals?chat">dreamexoticrentals</a>
+           </li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="footer__copyrights">
+    <p>
+      &copy; 2019 Dream Exotic Rentals
+
+      <img src="/img/asta.png" alt="">
+      <img src="/img/IATAN.png" alt="">
+      <img src="/img/fdacs.png" alt="">
+    </p>
+  </div>
+</footer>
+
+<a href="/destinations.htm" class="btn btn-fixed-to-bottom">
+  <!-- <i class="fa fa-plane" aria-hidden="true"></i> -->
+  <img src="images/world-map-small.png" alt="SHOW ALL destinations">
+
+  Explore Destinations
+</a>
+
+<!-- jQuery first, then Bootstrap JS. -->
+<script src="/js/scripts-all.js"></script>
+<script src="/js/custom.js"></script>
+<script src="/js/custom-scripts.js"></script>
+
+<!-- <script src="/js/popper.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/owl.carousel.min.js"></script>
+
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/jquery.validate.js" type="text/javascript"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.3/fotorama.js"></script>
+<script src="/js/modernizr.custom.js"></script>
+<script src="/js/jquery.dlmenu.js"></script>
+<script src="/vendors/jquery-ui-1.12.1/jquery-ui.min.js"></script>
+<script src="/vendors/OwlCarousel2-develop/dist/owl.carousel.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.2.0/isotope.pkgd.js"></script>
+<script type="text/javascript" src="/vendors/scrollbar/jquery.mCustomScrollbar.js"></script> -->
+
+</body>
+</html>
